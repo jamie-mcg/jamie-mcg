@@ -1,11 +1,11 @@
 ### Hello 👋  My name is Jamie!
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/jamie-mcg-patch-1/social_media/linkedin.svg"></a>
-<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/jamie-mcg-patch-1/social_media/twitter.png"></a>
-<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/jamie-mcg-patch-1/social_media/facebook.svg"></a>
-<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/jamie-mcg-patch-1/social_media/instagram.png"></a>
-<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/jamie-mcg-patch-1/social_media/mail.svg"></a>
+<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/main/social_media/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/main/social_media/twitter.png"></a>
+<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/main/social_media/facebook.svg"></a>
+<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/main/social_media/instagram.png"></a>
+<a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/main/social_media/mail.svg"></a>
 </p>
 
 I am currently a Theoretical Particle Physics PhD student at University College London (UCL). My research is working towards enhancing our current knowledge of Parton Distribution Functions, used to analyse data from particle collider experiments.
