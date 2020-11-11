@@ -12,7 +12,9 @@ I am currently a Theoretical Particle Physics PhD student at University College 
 
 I also have a strong interest in Machine Learning and have professional experience in applying these techniques to real world data.
 
+<p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-mcg&theme=react&show_icons=True&count_private=True"/>
+</p>
 
 <!--
 **jamie-mcg/jamie-mcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
