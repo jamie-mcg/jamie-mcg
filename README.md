@@ -1,9 +1,8 @@
-### Hello 👋  My name is Jamie McGowan
+### Hello 👋  My name is Jamie!
 
-I am currently a Theoretical Particle Physics PhD student at University College London (UCL). I am currently working on enhancing our current knowledge of Parton Distribution Functions, used to analyse data from particle collider experiments.
+I am currently a Theoretical Particle Physics PhD student at University College London (UCL). My research is working towards enhancing our current knowledge of Parton Distribution Functions, used to analyse data from particle collider experiments.
 
 I also have a strong interest in Machine Learning and have professional experience in applying these techniques to real world data.
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-mcg&theme=react&show_icons=True&count_private=True"/>
 
