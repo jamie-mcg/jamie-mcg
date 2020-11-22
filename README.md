@@ -1,3 +1,5 @@
+![starry night apollo 11](https://github.com/jamie-mcg/jamie-mcg/blob/add_photos/Pictures/starry_moon_final.png)
+
 ### Hello 👋  My name is Jamie!
 
 <p align='center'>
@@ -14,6 +16,10 @@ I also have a strong interest in Machine Learning and have professional experien
 
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-mcg&theme=react&show_icons=True&count_private=True"/>
+</p>
+
+<p align='center'>
+  The images shown in this profile page have all been produced by style transfer. Check out my `deep_dreams` repo to see more!
 </p>
 
 <!--
