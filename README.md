@@ -1,5 +1,3 @@
-![starry night apollo 11](https://github.com/jamie-mcg/jamie-mcg/blob/add_photos/Pictures/starry_moon_final.png)
-
 ### Hello 👋  My name is Jamie!
 
 <p align='center'>
@@ -13,6 +11,8 @@
 I am currently a Theoretical Particle Physics PhD student at University College London (UCL). My research is working towards enhancing our current knowledge of Parton Distribution Functions, used to analyse data from particle collider experiments.
 
 I also have a strong interest in Machine Learning and have professional experience in applying these techniques to real world data.
+
+![starry night apollo 11](https://github.com/jamie-mcg/jamie-mcg/blob/add_photos/Pictures/starry_moon_final.png)
 
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-mcg&theme=react&show_icons=True&count_private=True"/>
