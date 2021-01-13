@@ -19,7 +19,7 @@ I also have a strong interest in Machine Learning and have professional experien
 </p>
 
 <p align='center'>
-  The images shown in this profile page have all been produced by style transfer. Check out my `deep_dreams` repo to see more!
+  The header image shown in this profile page has been produced by style transfer. I have used a Convolutional Neural Net (CNN) to recast one of my favourite photographs (the entire human race, minus Michael Collins) with Van Gogh's "The Starry Night". Check out my `deep_dreams` repo to see the code, and more images!
 </p>
 
 <!--
