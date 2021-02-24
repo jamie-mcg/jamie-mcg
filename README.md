@@ -1,6 +1,6 @@
 ![starry night apollo 11](https://github.com/jamie-mcg/jamie-mcg/blob/add_photos/Pictures/cover_graphic.png)
 
-### Hello 👋  My name is Jamie!
+### Hello! 👋 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/main/social_media/linkedin.svg"></a>
