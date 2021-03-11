@@ -20,7 +20,7 @@ I have recently started to write a few blog posts on my [Medium](https://j-w-mcg
 
 ## Publications &#x270d;
 
-[Meta-Learning with MAML on Trees (2021)](https://arxiv.org/abs/2103.04691)
+* [Meta-Learning with MAML on Trees (2021)](https://arxiv.org/abs/2103.04691)
 
 ## GitHub Stats &#x1f4c8;
 
