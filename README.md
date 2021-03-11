@@ -16,7 +16,11 @@ I also have a strong interest in Machine Learning and have professional experien
 
 ## Blog & Writing &#x270d;
 
-I have recently started to write a few blog posts on my [Medium](https://j-w-mcgowan18.medium.com/) page. At the moment I only have one published post but I am trying to use my free time to grow this section.
+I have recently started to write a few blog posts on my [Medium](https://j-w-mcgowan18.medium.com/) page. At the moment I only have a couple of published posts but I am trying to use my free time to grow this section.
+
+## Publications &#x270d;
+
+Meta-Learning with MAML on Trees (2021) [arXiv](https://arxiv.org/abs/2103.04691)
 
 ## GitHub Stats &#x1f4c8;
 
