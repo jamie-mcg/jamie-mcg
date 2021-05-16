@@ -21,7 +21,7 @@ I have recently started to write a few blog posts on my [Medium](https://j-w-mcg
 * [What actually happens in a particle collision?](https://medium.com/particle-physics-101/what-actually-happens-in-a-particle-collision-8a962d1647dd)
 * [AGI, AI, DL, ML… What’s the Difference?](https://medium.com/swlh/agi-ai-dl-ml-whats-the-difference-cfdf749667c9)
 
-## Publications &#x270d;
+## Publications :page_facing_up:;
 
 * [Meta-Learning with MAML on Trees (2021)](https://arxiv.org/abs/2103.04691)
 
