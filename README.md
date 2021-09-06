@@ -20,6 +20,7 @@ I have recently started to write a few blog posts on my [Medium](https://j-w-mcg
 
 * [What actually happens in a particle collision?](https://medium.com/particle-physics-101/what-actually-happens-in-a-particle-collision-8a962d1647dd)
 * [AGI, AI, DL, ML… What’s the Difference?](https://medium.com/swlh/agi-ai-dl-ml-whats-the-difference-cfdf749667c9)
+* [Topic Model Based Recommendation Systems](https://j-w-mcgowan18.medium.com/topic-model-based-recommendation-systems-a02d198408b7)
 
 ## Publications :page_facing_up:;
 
