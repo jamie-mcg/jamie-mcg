@@ -24,7 +24,7 @@ I have recently started to write a few blog posts on my [Medium](https://j-w-mcg
 
 ## Publications :page_facing_up:;
 
-* [Meta-Learning with MAML on Trees (2021)](https://arxiv.org/abs/2103.04691)
+* [Cross-Lingual Transfer with MAML on Trees (2021)](https://aclanthology.org/2021.adaptnlp-1.8/), J. Garcia, F. Freddi, F. Liao, J. McGowan, T. Nieradzik, D. Shiu, Y. Tian, A. Bernacchia, EACL Adapt-NLP, 2021
 
 ## GitHub Stats &#x1f4c8;
 
