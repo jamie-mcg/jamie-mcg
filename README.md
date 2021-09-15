@@ -18,9 +18,10 @@ I also have a strong interest in Machine Learning and have professional experien
 
 I have recently started to write a few blog posts on my [Medium](https://j-w-mcgowan18.medium.com/) page. At the moment I only have a couple of published posts but I am trying to use my free time to grow this section.
 
+* [Can Machines Dream?](https://towardsdatascience.com/can-machines-dream-2fdf7afa7fdb) - Towards Data Science (TDS)
+* [Topic Model Based Recommendation Systems](https://towardsdatascience.com/topic-model-based-recommendation-systems-a02d198408b7) - Towards Data Science (TDS)
 * [What actually happens in a particle collision?](https://medium.com/particle-physics-101/what-actually-happens-in-a-particle-collision-8a962d1647dd) - Particle Physics 101
 * [AGI, AI, DL, ML… What’s the Difference?](https://medium.com/swlh/agi-ai-dl-ml-whats-the-difference-cfdf749667c9) - The Startup
-* [Topic Model Based Recommendation Systems](https://j-w-mcgowan18.medium.com/topic-model-based-recommendation-systems-a02d198408b7) - Towards Data Science (TDS)
 
 ## Publications :page_facing_up:;
 
