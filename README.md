@@ -20,7 +20,7 @@ I have recently started to write a few blog posts on my [Medium](https://j-w-mcg
 
 * [Can Machines Dream?](https://towardsdatascience.com/can-machines-dream-2fdf7afa7fdb) - Towards Data Science (TDS)
 * [Topic Model Based Recommendation Systems](https://towardsdatascience.com/topic-model-based-recommendation-systems-a02d198408b7) - Towards Data Science (TDS)
-* [What actually happens in a particle collision?](https://medium.com/particle-physics-101/what-actually-happens-in-a-particle-collision-8a962d1647dd) - Particle Physics 101
+* [What actually happens in a particle collision?](https://medium.com/particle-physics-101/what-actually-happens-in-a-particle-collision-7f5f94db8b0e) - Particle Physics 101
 * [AGI, AI, DL, ML… What’s the Difference?](https://medium.com/swlh/agi-ai-dl-ml-whats-the-difference-cfdf749667c9) - The Startup
 
 ## Publications :page_facing_up:;
