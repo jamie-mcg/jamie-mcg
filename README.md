@@ -1,4 +1,4 @@
-![starry night apollo 11](https://github.com/jamie-mcg/jamie-mcg/blob/add_photos/Pictures/cover_graphic.png)
+![starry night apollo 11](https://github.com/jamie-mcg/jamie-mcg/blob/add_photos/Pictures/starry_moon_final.png)
 
 ### Hello! 👋 
 
