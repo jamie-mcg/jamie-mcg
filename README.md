@@ -21,9 +21,10 @@ I have recently started to write a few blog posts on my [Medium](https://j-w-mcg
 * [What actually happens in a particle collision?](https://medium.com/particle-physics-101/what-actually-happens-in-a-particle-collision-7f5f94db8b0e) - Particle Physics 101
 * [AGI, AI, DL, ML… What’s the Difference?](https://medium.com/swlh/agi-ai-dl-ml-whats-the-difference-cfdf749667c9) - The Startup
 
-## Publications :page_facing_up:;
-
-* [Cross-Lingual Transfer with MAML on Trees (2021)](https://aclanthology.org/2021.adaptnlp-1.8/), J. Garcia, F. Freddi, F. Liao, J. McGowan, T. Nieradzik, D. Shiu, Y. Tian, A. Bernacchia, EACL Adapt-NLP, 2021
+## Selected Publications :page_facing_up:;
+* [MSHT20 N$^{3}$LO Parton Distribution Functions with Theoretical Uncertainties](https://arxiv.org/pdf/2207.04739), J. McGowan, T. Cridge, L.A. Harland-Lang and R. Thorne, European Physical Journal C, January 2023
+* [A Dataset for Learning Graph Representations to Predict Customer Returns in Fashion Retail](https://arxiv.org/abs/2302.14096), J. McGowan, Fabon Dzogang, et. al., FashionXRecSys, 2022
+* [Cross-Lingual Transfer with MAML on Trees (2021)](https://aclanthology.org/2021.adaptnlp-1.8/), J. Garcia, F. Freddi, F. Liao, J. McGowan, T. Nieradzik, D. Shiu, Y. Tian and A. Bernacchia, EACL Adapt-NLP, 2021
 
 ## GitHub Stats &#x1f4c8;
 
