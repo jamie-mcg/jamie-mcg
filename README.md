@@ -10,9 +10,7 @@
 <a href="https://www.linkedin.com/in/jamiewmcgowan/"><img height="30" src="https://github.com/jamie-mcg/jamie-mcg/blob/main/social_media/mail.svg"></a>
 </p>
 
-I am currently a Theoretical Particle Physics PhD student at University College London (UCL). My research is working towards enhancing our current knowledge of Parton Distribution Functions, used to analyse data from particle collider experiments.
-
-I also have a strong interest in Machine Learning and have professional experience in applying these techniques to real world data.
+I am a Research Scientist in AI focussed on exploring topics in foundational AI. My research interests include topics surrounding large models, meta-learning, structured intelligence and challenges in representation learning. In addition, my research involves developing real-world applications of AI to solve engineering problems.
 
 ## Blog & Writing &#x270d;
 
