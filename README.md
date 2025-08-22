@@ -2,7 +2,7 @@
 
 ### Hello! 👋 
 
-I am a Research Scientist in AI focused on building foundational models for Cybersecurity applications @RevEng.AI. My research interests include topics surrounding large models, meta-learning, structured intelligence and challenges in representation learning.
+I am a Research Scientist in AI focused on building foundational models for Cybersecurity applications @RevEngAI. My research interests include topics surrounding large models, meta-learning, structured intelligence and challenges in representation learning.
 
 [LinkedIn](www.linkedin.com/in/jamiewmcgowan) | [Personal Website](https://jamie-mcg.github.io/)
 
