@@ -2,7 +2,7 @@
 
 ### Hello! 👋 
 
-I am a Research Scientist in AI focused on exploring topics in foundational AI. My research interests include topics surrounding large models, meta-learning, structured intelligence and challenges in representation learning. In addition, my research involves developing real-world applications of AI to solve engineering problems.
+I am a Research Scientist in AI focused on building foundational models for Cybersecurity applications @RevEng.AI. My research interests include topics surrounding large models, meta-learning, structured intelligence and challenges in representation learning.
 
 [LinkedIn](www.linkedin.com/in/jamiewmcgowan) | [Personal Website](https://jamie-mcg.github.io/)
 
